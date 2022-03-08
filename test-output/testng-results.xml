@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-01T15:11:55 ICT" name="Default suite" finished-at="2022-03-01T15:12:21 ICT" duration-ms="25793">
+    <groups>
+    </groups>
+    <test started-at="2022-03-01T15:11:55 ICT" name="Default test" finished-at="2022-03-01T15:12:21 ICT" duration-ms="25793">
+      <class name="qoscanner_auto.ForgotPass">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:qoscanner_auto.ForgotPass@48f278eb]" started-at="2022-03-01T15:11:55 ICT" name="beforeClass" finished-at="2022-03-01T15:12:00 ICT" duration-ms="5504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Forgot_Valid_Email()[pri:0, instance:qoscanner_auto.ForgotPass@48f278eb]" started-at="2022-03-01T15:12:00 ICT" name="TC_01_Forgot_Valid_Email" finished-at="2022-03-01T15:12:11 ICT" duration-ms="10512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Forgot_Valid_Email -->
+        <test-method signature="TC_02_Forgot_Invalid_Email()[pri:0, instance:qoscanner_auto.ForgotPass@48f278eb]" started-at="2022-03-01T15:12:11 ICT" name="TC_02_Forgot_Invalid_Email" finished-at="2022-03-01T15:12:15 ICT" duration-ms="4467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Forgot_Invalid_Email -->
+        <test-method signature="TC_03_Forgot_Empty_Email()[pri:0, instance:qoscanner_auto.ForgotPass@48f278eb]" started-at="2022-03-01T15:12:15 ICT" name="TC_03_Forgot_Empty_Email" finished-at="2022-03-01T15:12:20 ICT" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Forgot_Empty_Email -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:qoscanner_auto.ForgotPass@48f278eb]" started-at="2022-03-01T15:12:20 ICT" name="afterClass" finished-at="2022-03-01T15:12:21 ICT" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- qoscanner_auto.ForgotPass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
